@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="jUfYmN3MykytEC59q_sGLw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAETSURBVDhPtdM/S0JRHMZxtURJQQT/QJgGLU1O0ktw6A00uglN7b4CA1cnB0WNlgoHtTfgG0hchMLBoV2aRNDvE8frn9RuiQc+nMM55z73d++51zFOR6b7mAe8o2JDeWn8ASug4rDR2OeDB07UsQiACwH4zX6tzedOcIY27uHGSoBKC6KBIo5NQBgtFHCJHnSh1/QrAdrcxyvcJuAUA7xAVVwjhR+P8FvAM+LoogQ92p8CnnCOIR5xmAC9xDd04DMBF/hEDQlsDdAxHqGKL9wiiTwmuIOq2R5g7ngFHdUYI9M3EUUMuwPUGKvsLHK4QcjM+5FBGhu/RE06v1PW2voaY1XwACtAP4YS7dLFOh0r4J8i0xkQTbpIouAIwAAAAABJRU5ErkJggg==" Selector="&lt;html app='msedge.exe' title='Activities - App/Web Recorder' /&gt;" Url="https://docs.uipath.com/activities/other/latest/ui-automation/app-web-recorder" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="c699c5cea8208baabda01ab156b07862.jpg" xmlns="">0BCeWUqPmCECP7IqZk_1ENA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
